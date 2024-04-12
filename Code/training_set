@@ -1,4 +1,3 @@
-```ruby
 import numpy as np 
 import pandas as pd 
 from datetime import datetime, timedelta
@@ -59,5 +58,5 @@ def build_dataset(start_data_season, kenpom_id_df, tourn_df, end_season = 2023):
     display(data_df)
     
     return data_df
-```
+
         
